@@ -154,14 +154,6 @@ sudo systemctl status isc-dhcp-server
 
 ---
 
-## Verify Client
-
-```bash
-ip addr
-```
-
----
-
 # Screenshots
 
 | Screenshot | Description |
