@@ -151,9 +151,12 @@ sudo systemctl restart isc-dhcp-server
 ```bash
 sudo systemctl status isc-dhcp-server
 ```
+## DHCP-service-running
 
+```bash
+sudo journalctl -u isc-dhcp-server
+```
 ---
-
 # Screenshots
 
 | Screenshot | Description |
